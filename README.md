@@ -15,6 +15,7 @@ These scripts are created to automate some of the support tasks we have.
 
 * All scripts require the creation of an API Key with the corresponding permissions.
 * The api_bulkteamdnc_add.py and the api_bulkteamdnc_remove.py requires a file named numbers.csv containing the list of numbers that are gonna be added/removed from the blocklist.
+* The list of numbers in numbers.csv should be using the e.164 format without the '+'. i.e: 15742922031
 
 ## Authors
 
